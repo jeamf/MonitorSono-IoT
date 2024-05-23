@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 
 // Configurações da rede Wi-Fi
-const char* ssid = "JOYCE 2.4 G";
-const char* password = "01091997";
+const char* ssid = "SEU WIFI";
+const char* password = "sua senha";
 
 // Configurações do broker MQTT
 const char* mqttServer = "broker.hivemq.com"; 
